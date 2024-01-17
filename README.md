@@ -1,2 +1,2 @@
 # Customer-Analysis
-Data Source: https://public.tableau.com/app/learn/sample-data
+Data Source: Superstore Sales data from Tableau public (https://public.tableau.com/app/learn/sample-data)
