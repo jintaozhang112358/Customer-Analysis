@@ -8,6 +8,6 @@ This is an End-to-End customer analysis project that consists of the following s
 
 Data Source: Superstore Sales data from [Tableau public sample data](https://public.tableau.com/app/learn/sample-data).
 
-- See ETL.ipynb file in the ETL folder for the complete ETL logic and the PySpark code.
-- See Generate_Insights.sql file for the complete SQL code.
+- See `ETL.ipynb` file in the ETL folder for the complete ETL logic and the PySpark code.
+- See `Generate_Insights.sql` file for the complete SQL code.
 - Click [here](https://public.tableau.com/views/CustomerAnalysisDashboard_17061314032960/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) for the Tableau dashboard.
