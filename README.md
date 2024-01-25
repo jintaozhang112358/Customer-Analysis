@@ -6,7 +6,7 @@ This is an End-to-End customer analysis project that consists of the following s
 - **Insight Generation**: Further analysis on processed data using SQL.
 - **Data Visualization**: Visualize findings using Tableau.
 
-Data Source: Superstore Sales data from [Tableau public sample data](https://public.tableau.com/app/learn/sample-data)
+Data Source: Superstore Sales data from [Tableau public sample data](https://public.tableau.com/app/learn/sample-data).
 
 - See ETL.ipynb file in the ETL folder for the complete ETL logic and the PySpark code.
 - See Generate_Insights.sql file for the complete SQL code.
